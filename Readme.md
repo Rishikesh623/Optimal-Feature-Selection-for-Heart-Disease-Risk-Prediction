@@ -1,7 +1,3 @@
-Here’s a **README.md draft** for your project:
-
----
-
 # Heart Disease Prediction with Optimal Feature Selection
 
 ## Project Overview
@@ -103,7 +99,6 @@ HeartDisease-FeatureSelection/
 
 ## Dataset
 
-We will use the **UCI Heart Disease Dataset** (Cleveland dataset).
-Link: [UCI Repository](https://archive.ics.uci.edu/ml/datasets/heart+disease)
+We will use the **UCI Heart Disease Dataset** (Framingham  dataset).
 
 ---
